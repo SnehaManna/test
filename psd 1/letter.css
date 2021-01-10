@@ -1,0 +1,150 @@
+body{
+    margin:0;
+    padding:0;
+}
+.main-con{
+    width:650px;
+    height:1418px;
+    margin:0 auto;
+    border:5px solid #ececec;
+    border-top:5px solid #ececec;
+    padding: 15px;
+}
+.header-top{
+    
+    display:flex;
+    
+}
+.logo{
+    width:50%;
+    float:left;
+    position: relative;
+    top: -12px;
+    left: -14px;
+
+}
+.add{
+    padding-top:43px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    width:50%;
+    text-align: right;
+    margin:0px;
+    position: relative;
+    top: -40px;
+}
+.add span{
+    font-weight: bold;
+    width:100%;
+    margin-bottom: 10px;
+    float:left;
+}
+.add a{
+    color: #65ac00;
+    text-decoration: none;
+}
+.header-bottom{
+    position: relative;
+    top: -133px;
+
+}
+.banner p{
+    text-align: center;
+    position: relative;
+    top: 97px;
+    left: 155px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.banner span{
+    position: relative;
+    right: -541px;
+    top: 3px;
+}
+.banner span a{
+    margin-left: 3px;
+}
+.left{
+    width:398px;
+    float:left;
+}
+.left h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:25px;
+    color:#65ac00;
+    font-weight: normal;
+    margin-top:24px;
+    
+}
+.content{
+    float: left;
+    position: relative;
+    top: -155px;
+    right:-5px;
+
+}
+.left a{
+    color: #0099cc;
+    text-decoration: none;
+    float:left;
+    text-align: right;
+    width:100%;
+    border-bottom:2px solid #e2e2e2;
+    padding-bottom: 20px;
+    margin-bottom:20px;
+    position: relative;
+}
+.left img{
+    width:388px;
+    margin:20px 0 10px 0;
+}
+.bor{
+    border-bottom:2px solid #e2e2e2;
+    padding-bottom:20px;
+    position: relative;
+    
+}
+.nostyle{
+    border:none !important;
+}
+.right{
+    width:223px;
+    float:right;
+    margin-left:8px;
+    border-left:2px solid #e2e2e2;
+    padding:0 0 104px 10px;
+}
+.right h2{
+    background-color: #8cc140;
+    color:#fff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+    position: relative;
+    bottom:-11px;
+    padding:4px;
+    
+}
+.right p{
+    font-size:13px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-right: 6px;
+    text-align: justify;
+
+}
+.right a{
+    color:#8cc140;
+    text-decoration: none;
+}
+.right img{
+    margin:5px 0;
+}
+.footer{
+    text-align:center;
+    position: relative;
+    right:550px;
+    font-size:9px;
+    font-family: arial;
+    line-height: 10px;
+}
